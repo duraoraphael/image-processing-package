@@ -1,7 +1,7 @@
 # package_name
 
 Description. 
-The package package_name is used to:
+Desafio da DIO
 	- 
 	-
 
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Rapahel
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
