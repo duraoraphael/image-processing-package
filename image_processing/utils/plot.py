@@ -13,7 +13,7 @@ def plot_result(*args):
     names_lst.append('Result')
     for ax, name, image in zip(axis, names_lst, args):
         ax.set_title(name)
-        ax.imshow(image, cmap='gray')
+        ax.imshow(image, cmap='gray' )
         ax.axis('off')
     fig.tight_layout()
     plt.show()
